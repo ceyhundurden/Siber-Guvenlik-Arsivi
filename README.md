@@ -2,34 +2,34 @@
 Red Team, Blue Team, Pentest, DFIR ve daha fazlası için Türkçe siber güvenlik kaynakları.
 Bu proje, MDKAIF302 tarafından oluşturulan SecArchive projesinden türetilmiştir. Orijinal proje MIT Lisansı altında yayımlanmıştır. Bu sürüm Türkçe çeviri, düzenlemeler ve ek içerikler içermektedir.
 
-# 🤖 GPT & AI Security Tools
+# 🤖 GPT & Yapay Zeka Güvenlik Araçları
 
-Resources focused on using AI or GPT for cybersecurity workflows, automation, and prompting.
+Siber güvenlik iş akışları, otomasyon ve prompt yazımı için yapay zeka veya GPT kullanımına odaklanan kaynaklar.
 
-| Name / Author                          | Status | Link                                                               |
+| İsim / Yazar                          | Durum | Bağlantı                                                               |
 |---------------------------------------|--------|--------------------------------------------------------------------|
 | Offensive AI Compilation by jiep       | ✅     | https://jiep.github.io/offensive-ai-compilation/          |
 | CyberSecAI Project  | ✅     | https://cybersecai.github.io/            |
 
 
-# 🐞 Bug Bounty Resources
+# 🐞 Bug Bounty Kaynakları
 
-Hand-picked resources to level up your bug bounty journey — including tips, scanners, prompt guides, and learning material from the community.
+Bug bounty yolculuğunuzu geliştirmek için özenle seçilmiş kaynaklar — ipuçları, tarayıcılar, prompt rehberleri ve topluluk kaynaklı öğrenme materyalleri.
 
-## 🛠️ Tools & Scanners
-| Name / Author                       | Status | Link                                                                 |
+## 🛠️ Araçlar ve Tarayıcılar
+| İsim / Yazar                       | Durum | Bağlantı                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
 | Open Source-web scanners List             | ✅     | https://github.com/psiinon/open-source-web-scanners                 |
 
-## 💡 Learning Guides & Roadmaps
-| Name / Author                       | Status | Link                                                                 |
+## 💡 Öğrenme Rehberleri ve Yol Haritaları
+| İsim / Yazar                       | Durum | Bağlantı                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
 | Bug Bounty Beginner Roadmap by bittentech     | ✅     | https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap             |
 | Bughunter Handbook by gowthams               | ✅     | https://gowthams.gitbook.io/bughunter-handbook                             |
 | HowToHunt by KathanP19                      | ✅     | https://github.com/KathanP19/HowToHunt                                      |
 
-## 📝 Tips, Write-ups & Prompts
-| Name / Author                       | Status | Link                                                                 |
+## 📝 İpuçları, Yazılar ve Promptlar
+| İsim / Yazar                       | Durum | Bağlantı                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
 | KingOfBugBountyTips                | ✅     | https://github.com/KingOfBugbounty/KingOfBugBountyTips              |
 | Book of Bug Bounty Tips by Gowsundar | ✅   | https://gowsundar.gitbook.io/book-of-bugbounty-tips                 |
@@ -37,70 +37,70 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 | One-Liners by 0xPugal                          | ✅     | https://github.com/0xPugal/One-Liners          |
 | ChatGPT Prompts by TakSec          | ✅     | https://github.com/TakSec/chatgpt-prompts-bug-bounty                |
 
-## 🌐 Community & Target Lists
-| Name / Author                       | Status | Link                                                                 |
+## 🌐 Topluluk ve Hedef Listeleri
+| İsim / Yazar                       | Durum | Bağlantı                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
 | Bounty Targets Data by Arkadiyt      | ✅     | https://github.com/arkadiyt/bounty-targets-data                           |
 | BugBountyHunting.com                   | ✅     | https://www.bugbountyhunting.com/                                         |
 
-# CVE Resources
+# CVE Kaynakları
 
-A curated list of websites and sources where you can find **Common Vulnerabilities and Exposures (CVEs)**, security advisories, and vulnerability research. This resource is maintained for cybersecurity researchers, bug hunters, and enthusiasts.
+**Bilinen Güvenlik Açıkları ve Zafiyetler (CVE)**, güvenlik tavsiye bildirimleri ve zafiyet araştırmalarını bulabileceğiniz özenle seçilmiş web siteleri ve kaynakların listesi. Bu kaynak, siber güvenlik araştırmacıları, bug hunter'lar ve meraklılar için hazırlanmıştır.
 
 ---
 
-## ✅ Official CVE Databases
-- [CVE Official Database](https://cve.mitre.org/) – Authoritative source for CVE IDs and descriptions.
-- [National Vulnerability Database (NVD)](https://nvd.nist.gov/) – Detailed CVE data with severity metrics and CVSS scores.
-- [CVE Details](https://www.cvedetails.com/) – Database: Searchable CVE database with vendor, product, and version filtering, plus statistics and trends.
-- [CVE.circl.lu](https://cve.circl.lu/) – Official: Searchable CVE database and intelligence feed by CIRCL, offering vulnerability details, statistics, and API access.
+## ✅ Resmi CVE Veritabanları
+- [CVE Official Database](https://cve.mitre.org/) – CVE ID'leri ve açıklamaları için yetkili kaynak.
+- [National Vulnerability Database (NVD)](https://nvd.nist.gov/) – Önem derecesi metrikleri ve CVSS puanları içeren detaylı CVE verileri.
+- [CVE Details](https://www.cvedetails.com/) – Veritabanı: Satıcı, ürün ve sürüme göre filtrelenebilen, istatistik ve trendler içeren aranabilir CVE veritabanı.
+- [CVE.circl.lu](https://cve.circl.lu/) – Resmi: CIRCL tarafından sunulan, zafiyet detayları, istatistikler ve API erişimi sağlayan aranabilir CVE veritabanı ve istihbarat akışı.
 
-## 📰 Security Blogs & Advisories
-- [Praetorian Blog](https://www.praetorian.com/blog/) – Security research, vulnerability reports, and analysis.
-- [Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) – Published advisories for new vulnerabilities.
-- [Exploit Database](https://www.exploit-db.com/) – Collection of public exploits and CVEs.
-- [Google Cloud Threat Intelligence Blog](https://cloud.google.com/blog/topics/threat-intelligence/) – Official: Security research and threat intelligence updates from Google Cloud, covering CVEs, vulnerabilities, and emerging cyber threats.
-- [Zero Day Initiative Blog](https://www.zerodayinitiative.com/blog) – Blog: Vulnerability research, exploit analysis, and security insights from Trend Micro’s Zero Day Initiative team.
-- [Beagle Security Vulnerability Index](https://beaglesecurity.com/blog/web-application-vulnerabilities-index.html) – Blog: Curated index of common web application vulnerabilities with explanations and security insights.
+## 📰 Güvenlik Blogları ve Tavsiye Bildirimleri
+- [Praetorian Blog](https://www.praetorian.com/blog/) – Güvenlik araştırmaları, zafiyet raporları ve analizler.
+- [Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) – Yeni zafiyetler için yayımlanan tavsiye bildirimleri.
+- [Exploit Database](https://www.exploit-db.com/) – Genel exploit ve CVE koleksiyonu.
+- [Google Cloud Threat Intelligence Blog](https://cloud.google.com/blog/topics/threat-intelligence/) – Resmi: Google Cloud'un CVE, zafiyet ve ortaya çıkan siber tehditleri kapsayan güvenlik araştırması ve tehdit istihbaratı güncellemeleri.
+- [Zero Day Initiative Blog](https://www.zerodayinitiative.com/blog) – Blog: Trend Micro'nun Zero Day Initiative ekibinden zafiyet araştırması, exploit analizi ve güvenlik içgörüleri.
+- [Beagle Security Vulnerability Index](https://beaglesecurity.com/blog/web-application-vulnerabilities-index.html) – Blog: Açıklamalı ve güvenlik içgörüleriyle desteklenmiş, yaygın web uygulaması zafiyetlerinin derlenmiş indeksi.
 
 
-## 🏢 Vendor Security Advisories
+## 🏢 Üretici Güvenlik Tavsiye Bildirimleri
 - [Microsoft Security Advisories](https://msrc.microsoft.com/update-guide/)  
 - [Cisco Security Advisories](https://tools.cisco.com/security/center/publicationListing.x)  
 - [Oracle Security Alerts](https://www.oracle.com/security-alerts/)  
 - [Adobe Security Bulletins](https://helpx.adobe.com/security.html)
-- [Tenable CVE Search](https://www.tenable.com/cve) – Vendor: Searchable database of CVEs with details, severity insights, and remediation guidance from Tenable.
-- [Palo Alto Networks Security Advisories](https://security.paloaltonetworks.com/) – Vendor: Official security advisories and vulnerability disclosures from Palo Alto Networks.
+- [Tenable CVE Search](https://www.tenable.com/cve) – Üretici: Tenable'dan detaylar, önem derecesi içgörüleri ve giderme rehberliği içeren aranabilir CVE veritabanı.
+- [Palo Alto Networks Security Advisories](https://security.paloaltonetworks.com/) – Üretici: Palo Alto Networks'ün resmi güvenlik tavsiye bildirimleri ve zafiyet açıklamaları.
 
 
-## 🌐 Community & Research Platforms
-- [Packet Storm Security](https://packetstormsecurity.com/) – CVEs, exploits, and advisories.
-- [GitHub Security Advisories](https://github.com/advisories) – CVEs reported in open-source projects.
-- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) – Community vulnerability disclosure.
-- [Huntr Hacktivity](https://huntr.com/bounties/hacktivity) – Community: Public feed of disclosed vulnerabilities in open-source projects reported through the Huntr bug bounty platform.
-- [GitHub Security Advisories](https://github.com/advisories) – Community: Database of security advisories and CVEs affecting open-source projects hosted on GitHub.
-- [PoC in GitHub](https://poc-in-github.motikan2010.net/) – Community: Aggregates proof-of-concept exploits for CVEs from GitHub repositories, useful for research and testing.
-- [Sploitus](https://sploitus.com/) – Community: Searchable index of proof-of-concept exploits and public payloads aggregated from multiple sources, useful for research and testing.
-- [HuntDB](https://huntdb.com/) – Community: Search engine and database for CVEs with statistics, filtering, and trends for vulnerability research.
-- [Threatable](https://www.threatable.io/) – Community: CVE and threat intelligence platform that aggregates vulnerability data with search and tracking capabilities.
+## 🌐 Topluluk ve Araştırma Platformları
+- [Packet Storm Security](https://packetstormsecurity.com/) – CVE'ler, exploit'ler ve tavsiye bildirimleri.
+- [GitHub Security Advisories](https://github.com/advisories) – Açık kaynak projelerde bildirilen CVE'ler.
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) – Topluluk zafiyet açıklamaları.
+- [Huntr Hacktivity](https://huntr.com/bounties/hacktivity) – Topluluk: Huntr bug bounty platformu üzerinden bildirilen açık kaynak projelerdeki zafiyetlerin herkese açık akışı.
+- [GitHub Security Advisories](https://github.com/advisories) – Topluluk: GitHub'da barındırılan açık kaynak projeleri etkileyen güvenlik tavsiye bildirimleri ve CVE veritabanı.
+- [PoC in GitHub](https://poc-in-github.motikan2010.net/) – Topluluk: GitHub depolarından CVE'lere yönelik kavram kanıtı (proof-of-concept) exploit'lerini derler, araştırma ve test için kullanışlıdır.
+- [Sploitus](https://sploitus.com/) – Topluluk: Birden fazla kaynaktan derlenen, araştırma ve test için kullanışlı, aranabilir kavram kanıtı exploit ve genel payload indeksi.
+- [HuntDB](https://huntdb.com/) – Topluluk: Zafiyet araştırması için istatistik, filtreleme ve trend sunan CVE arama motoru ve veritabanı.
+- [Threatable](https://www.threatable.io/) – Topluluk: Zafiyet verilerini arama ve izleme yetenekleriyle derleyen CVE ve tehdit istihbaratı platformu.
 
 
-## 📡 RSS Feeds & Automation
-- [NVD RSS Feeds](https://nvd.nist.gov/vuln/data-feeds) – Stay updated with new CVEs automatically.
-- [Exploit DB RSS](https://www.exploit-db.com/rss.xml) – Exploit and CVE updates.
+## 📡 RSS Akışları ve Otomasyon
+- [NVD RSS Feeds](https://nvd.nist.gov/vuln/data-feeds) – Yeni CVE'lerden otomatik olarak haberdar olun.
+- [Exploit DB RSS](https://www.exploit-db.com/rss.xml) – Exploit ve CVE güncellemeleri.
 
-## 💡 Contribution
-If you know other useful CVE sources or blogs, feel free to submit a pull request. Keep the links relevant, trustworthy, and up-to-date.
+## 💡 Katkı
+Faydalı başka CVE kaynakları veya bloglar biliyorsanız, çekinmeden bir pull request gönderebilirsiniz. Bağlantıların ilgili, güvenilir ve güncel olmasına dikkat edin.
 
 ---
 
-> ⚠️ Disclaimer: This repository is for **educational purposes only**. Always follow legal and ethical guidelines when testing or researching vulnerabilities.
+> ⚠️ Uyarı: Bu depo yalnızca **eğitim amaçlıdır**. Zafiyetleri test ederken veya araştırırken her zaman yasal ve etik kurallara uyun.
 
-# 📋 Cheatsheets & Checklist Resources
+# 📋 Cheatsheet ve Kontrol Listesi Kaynakları
 
-A curated collection of cheat sheets and checklists for cybersecurity professionals — covering topics like Active Directory, Cobalt Strike, pivoting, containers, and more.
+Active Directory, Cobalt Strike, pivoting, konteynerler ve daha fazlasını kapsayan, siber güvenlik profesyonelleri için özenle seçilmiş cheat sheet ve kontrol listesi koleksiyonu.
 
-| Name / Author                                      | Status | Link                                                                 |
+| İsim / Yazar                                      | Durum | Bağlantı                                                                 |
 |---------------------------------------------------|--------|----------------------------------------------------------------------|
 | PenTest Tools Cheatsheet by HighOnCoffee          | ✅     | https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/   |
 | AD Exploitation Cheatsheet by S1ckB0y1337         | ✅     | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet |
@@ -119,11 +119,11 @@ A curated collection of cheat sheets and checklists for cybersecurity profession
 | Active Directory Security Checklist by CybersecurityNews | ✅ | https://cybersecuritynews.com/active-directory-checklist/ |
 | Hacking Cheat Sheets (PDF) by sk3pp3r       | ✅     | https://github.com/sk3pp3r/cheat-sheet-pdf |
 
-# 🛠️ Security Tools
+# 🛠️ Güvenlik Araçları
 
-A curated list of offensive and defensive cybersecurity tools — covering enumeration, privilege escalation, post-exploitation, and more.
+Keşif (enumeration), yetki yükseltme, post-exploitation ve daha fazlasını kapsayan, özenle seçilmiş saldırı ve savunma amaçlı siber güvenlik araçları listesi.
 
-| Name / Author                       | Status | Link                                           |
+| İsim / Yazar                       | Durum | Bağlantı                                           |
 |------------------------------------|--------|------------------------------------------------|
 | CyberSec Tools Directory           | ✅     | https://cybersectools.com/                     |
 | Sploitify — Exploits Search        | ✅     | https://sploitify.haxx.it/                     |
@@ -136,11 +136,11 @@ A curated list of offensive and defensive cybersecurity tools — covering enume
 | CVE2CAPEC by Galeax       | ✅     | https://galeax.github.io/CVE2CAPEC/             |
 | HOUDINI by SecSI                               | ✅     | https://houdini.secsi.io/                        |
 
-# 🆓 Free Study Sites
+# 🆓 Ücretsiz Çalışma Siteleri
 
-A curated list of freely available platforms, notes, and study resources to learn cybersecurity at no cost.
+Siber güvenliği ücretsiz olarak öğrenmek için özenle seçilmiş platformlar, notlar ve çalışma kaynakları listesi.
 
-| Name / Platform                      | Status | Link                                                                 |
+| İsim / Platform                      | Durum | Bağlantı                                                                 |
 |-------------------------------------|--------|----------------------------------------------------------------------|
 | Class Central                       | ✅     | https://www.classcentral.com/                                       |
 | DigitalDefynd                       | ✅     | https://digitaldefynd.com/                                 |
@@ -159,11 +159,11 @@ A curated list of freely available platforms, notes, and study resources to lear
 | CyberSources                     | ✅     | https://www.cybersources.site/                                    |
 | Coursesity                       | ✅     | https://coursesity.com/                                          |
 
-# 📚 General Cybersecurity Resources
+# 📚 Genel Siber Güvenlik Kaynakları
 
-High-quality reference guides, methodologies, and curated knowledge bases for red/blue/cloud teams.
+Red/blue/cloud takımları için kaliteli referans rehberleri, metodolojiler ve özenle seçilmiş bilgi kaynakları.
 
-| Name / Author                              | Status | Link                                                               |
+| İsim / Yazar                              | Durum | Bağlantı                                                               |
 |-------------------------------------------|--------|--------------------------------------------------------------------|
 | HackTricks Wiki                            | ✅     | https://book.hacktricks.wiki/en/index.html                         |
 | HackTricks Cloud Edition                   | ✅     | https://cloud.hacktricks.wiki/en/index.html                        |
@@ -178,37 +178,37 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | TryHackMe Free Room List by winterrdog | ✅     | https://github.com/winterrdog/tryhackme-free-rooms                    |
 | OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
 | iRed Team          | ✅     | https://www.ired.team/ |
-| Hacking Life by Amanda Guglieri | ✅     | https://amandaguglieri.github.io/hackinglife/ |
+| Hacking Life by Amanda Guglieri | ✅     | https://amandaguglieri.github.io/hackinglife/ |
 | macOS Security & Privacy Guide by DrDuh | ✅     | https://drduh.github.io/macOS-Security-and-Privacy-Guide/             |
 
-# 💼 Careers & Hiring Resources
+# 💼 Kariyer ve İşe Alım Kaynakları
 
-Resources geared toward modern hiring, interviewing best practices, and career development in cybersecurity and tech.
+Modern işe alım, mülakat en iyi uygulamaları ve siber güvenlik ile teknoloji alanında kariyer gelişimine yönelik kaynaklar.
 
-| Name / Author                      | Status | Link                                                                 |
+| İsim / Yazar                      | Durum | Bağlantı                                                                 |
 |-----------------------------------|--------|----------------------------------------------------------------------|
 | Hiring Without Whiteboards by poteto | ✅  | https://github.com/poteto/hiring-without-whiteboards                |
 | World Top Job Sites by AllYouCanRead          | ✅     | https://allyoucanread.com/world-top-job-sites/                  |
-| Who’s Hiring – LinkedIn    | ✅     | https://www.linkedin.com/pulse/heres-whos-hiring-right-now-andrew-seaman/ |
+| Who's Hiring – LinkedIn    | ✅     | https://www.linkedin.com/pulse/heres-whos-hiring-right-now-andrew-seaman/ |
 | Working Nomads – Remote Cybersecurity Jobs | ✅ | https://www.workingnomads.com/remote-cybersecurity-jobs |
 
-# 🗺️ Mindmaps Resources
+# 🗺️ Zihin Haritası Kaynakları
 
-Visual resources and structured mind maps to help understand cybersecurity domains, attacks, and methodologies.
+Siber güvenlik alanlarını, saldırıları ve metodolojileri anlamaya yardımcı görsel kaynaklar ve yapılandırılmış zihin haritaları.
 
-| Name / Author                   | Status | Link                                                         |
+| İsim / Yazar                   | Durum | Bağlantı                                                         |
 |--------------------------------|--------|--------------------------------------------------------------|
 | Mind Maps by Imran Parray      | ✅     | https://github.com/imran-parray/Mind-Maps                   |
 | Mindmap by Ignite Technologies | ✅     | https://github.com/Ignitetechnologies/Mindmap               |
-| Aman Hardikar’s Mindmaps              | ✅     | https://www.amanhardikar.com/mindmaps.html           |
+| Aman Hardikar's Mindmaps              | ✅     | https://www.amanhardikar.com/mindmaps.html           |
 | AD Pentesting Mind Map by esidate            | ✅     | https://github.com/esidate/pentesting-active-directory                 |
 | Microsoft Eventlog Mindmap by mdecrevoisier   | ✅     | https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap         |
 
-# 📰 Cybersecurity News Sources
+# 📰 Siber Güvenlik Haber Kaynakları
 
-A curated list of trusted platforms for the latest cybersecurity news, threat intelligence, and security research.
+Güncel siber güvenlik haberleri, tehdit istihbaratı ve güvenlik araştırmaları için güvenilir, özenle seçilmiş platformlar listesi.
 
-| Name / Source                  | Status | Link |
+| İsim / Kaynak                  | Durum | Bağlantı |
 |--------------------------------|--------|------|
 | The Hacker News                 | ✅     | https://thehackernews.com/ |
 | ZDNet Security                  | ✅     | https://www.zdnet.com/topic/security/ |
@@ -231,11 +231,11 @@ A curated list of trusted platforms for the latest cybersecurity news, threat in
                                             # SERTIFIKALAR
 
 
-# 🧠 Learning Resources - CRTO / CRTP
+# 🧠 Öğrenme Kaynakları - CRTO / CRTP
 
-A collection of useful community-made notes and study material for CRTO (Certified Red Team Operator) and CRTP (Certified Red Team Professional).
+CRTO (Certified Red Team Operator) ve CRTP (Certified Red Team Professional) için topluluk kaynaklı, faydalı notlar ve çalışma materyalleri koleksiyonu.
 
-| Name / Author                | Status | Link                                                           |
+| İsim / Yazar                | Durum | Bağlantı                                                           |
 |-----------------------------|--------|----------------------------------------------------------------|
 | Ahmed El-Rayes Blog         | ✅     | https://ahmedel-rayes.github.io/posts/CRTP                    |
 | CRTO GitHub by h3ll0clar1c3 | ✅     | https://github.com/h3ll0clar1c3/CRTO                          |
@@ -243,41 +243,41 @@ A collection of useful community-made notes and study material for CRTO (Certifi
 | CRTP GitBook by dev-angelist| ✅     | https://dev-angelist.gitbook.io/crtp-notes                    |
 | myAwesome Repo by 0xBugatti | ✅     | https://github.com/0xBugatti/myAwesome                        |
 
-# 🏆 Learning Resources - Hack The Box (CPTS / CBBH)
+# 🏆 Öğrenme Kaynakları - Hack The Box (CPTS / CBBH)
 
-A curated list of notes and community resources for HTB certifications like **CPTS (Certified Penetration Testing Specialist)** and **CBBH (Certified Bug Bounty Hunter)**.
+HTB sertifikaları **CPTS (Certified Penetration Testing Specialist)** ve **CBBH (Certified Bug Bounty Hunter)** için özenle seçilmiş notlar ve topluluk kaynakları listesi.
 
-| Name / Author                         | Status | Link                                                               |
+| İsim / Yazar                         | Durum | Bağlantı                                                               |
 |--------------------------------------|--------|--------------------------------------------------------------------|
 | CPTS Cheatsheet by zagnox            | ✅     | https://github.com/zagnox/CPTS-cheatsheet                         |
 | Xormancer CPTS Notes                 | ✅     | https://xormancer.github.io/vault/cpts/htb-cpts.html              |
 | X3m1Sec GitBook (CPTS Cheatsheet)    | ✅     | https://x3m1sec.gitbook.io/notes/my-certifications/cpts/cheatsheet |
 | CBBH Notes by Savitar                | ✅     | https://savitar.gitbook.io/mynotes/certifications-and-notes/web-pentesting/cbbh |
 
-# 📜 Learning Resources – INE Certifications.
+# 📜 Öğrenme Kaynakları – INE Sertifikaları
 
-Community-curated notes and cheat sheets for INE certifications like **eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)** and **eWPTXv3 (eLearnSecurity Web Application Penetration Tester Extreme)**.
+**eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)** ve **eWPTXv3 (eLearnSecurity Web Application Penetration Tester Extreme)** gibi INE sertifikaları için topluluk kaynaklı notlar ve cheat sheet'ler.
 
-| Name / Author                      | Status | Link                                                               |
+| İsim / Yazar                      | Durum | Bağlantı                                                               |
 |-----------------------------------|--------|--------------------------------------------------------------------|
 | eCPPT Cheatsheet by Dragkob       | ✅     | https://github.com/Dragkob/eCPPT                                  |
 | eCPPTv2 Notes by dev-angelist     | ✅     | https://dev-angelist.gitbook.io/ecpptv2-ptp-notes                 |
 | eWPTXv3 Notes by dev-angelist     | ✅     | https://dev-angelist.gitbook.io/ewptxv3-notes                     |
 
-# ⚡️ Learning Resources – ISC² Certifications.
+# ⚡️ Öğrenme Kaynakları – ISC² Sertifikaları
 
-Curated notes and resource collections for ISC² certifications such as **CISSP (Certified Information Systems Security Professional)** and **CCSP (Certified Cloud Security Professional)**.
+**CISSP (Certified Information Systems Security Professional)** ve **CCSP (Certified Cloud Security Professional)** gibi ISC² sertifikaları için özenle seçilmiş notlar ve kaynak koleksiyonları.
 
-| Author / Source                        | Status | Link                                                               |
+| Yazar / Kaynak                        | Durum | Bağlantı                                                               |
 |----------------------------------------|--------|--------------------------------------------------------------------|
 | Jeffery W. Moore CISSP Resources       | ✅     | https://jefferywmoore.github.io/CISSP-Study-Resources/            |
 | Awesome CISSP/CCSP by connectans       | ✅     | https://github.com/connectans/awesome-CISSP-CCSP                  |
 
-# 👑 Learning Resources – Other Cybersecurity Certifications
+# 👑 Öğrenme Kaynakları – Diğer Siber Güvenlik Sertifikaları
 
-A mix of high-quality resources for various other certifications including **CompTIA Security+, PNPT, CEH, RHCSA, AWS SAA-C03, BTL1 and More **.
+**CompTIA Security+, PNPT, CEH, RHCSA, AWS SAA-C03, BTL1 ve daha fazlası** dahil olmak üzere çeşitli diğer sertifikalar için kaliteli kaynaklar karışımı.
 
-| Certification / Topic             | Status | Link                                                               |
+| Sertifika / Konu             | Durum | Bağlantı                                                               |
 |----------------------------------|--------|--------------------------------------------------------------------|
 | CompTIA Security+ SY0-701 Guide  | ✅     | https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Full-Training-Guide |
 | PNPT Study Guide by TrshPuppy    | ✅     | https://github.com/TrshPuppy/PNPT-study-guide                     |
@@ -287,15 +287,15 @@ A mix of high-quality resources for various other certifications including **Com
 | Exam Prep Notes by RootKid                  | ✅ | https://blog.rootkid.in/exam-prep-notes |
 | ISO/IEC 27001:2022 by Zeusem | ✅     | https://zeusem.github.io/ISO_IEC-27001.2022/                      |
 
-# 💀 Learning Resources – Offensive Security (OffSec) Certifications
+# 💀 Öğrenme Kaynakları – Offensive Security (OffSec) Sertifikaları
 
-Community-driven notes and cheat sheets for various OffSec certifications including **OSCP, OSEP, OSED, OSCE3, OSWE, and OSWP**.
+**OSCP, OSEP, OSED, OSCE3, OSWE ve OSWP** dahil çeşitli OffSec sertifikaları için topluluk kaynaklı notlar ve cheat sheet'ler.
 
 ---
 
 ## 🚨 OSCP / OSCP+
 
-| Author / Source                 | Status | Link                                                       |
+| Yazar / Kaynak                 | Durum | Bağlantı                                                       |
 |--------------------------------|--------|------------------------------------------------------------|
 | 0xsyr0 OSCP Repo               | ✅     | https://github.com/0xsyr0/oscp                             |
 | xsudoxx OSCP Repo              | ✅     | https://github.com/xsudoxx/OSCP                            |
@@ -308,7 +308,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ## 🧬 OSEP
 
-| Author / Source                  | Status | Link                                                       |
+| Yazar / Kaynak                  | Durum | Bağlantı                                                       |
 |----------------------------------|--------|------------------------------------------------------------|
 | SteffinStanly GitBook Notes     | ✅     | https://steffinstanly.gitbook.io/osep-notes               |
 | Forsec.nl OSEP Notes            | ✅     | https://forsec.nl/osep.html                                |
@@ -321,7 +321,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ## 💣 OSED
 
-| Author / Source               | Status | Link                                                       |
+| Yazar / Kaynak               | Durum | Bağlantı                                                       |
 |------------------------------|--------|------------------------------------------------------------|
 | ZeyadAzima Notes             | ✅     | https://zeyadazima.com/notes/osednotes/                   |
 | OSED Notes by mrtouch93      | ✅     | https://github.com/mrtouch93/OSED-Notes                   |
@@ -332,7 +332,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ## 🔐 OSCE3
 
-| Author / Source                   | Status | Link                                                       |
+| Yazar / Kaynak                   | Durum | Bağlantı                                                       |
 |----------------------------------|--------|------------------------------------------------------------|
 | CyberSecurityUP OSCE3 Guide      | ✅     | https://github.com/CyberSecurityUP/OSCE3-Complete-Guide    |
 
@@ -340,6 +340,6 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ## 🌐 OSWE
 
-| Author / Source     | Status | Link                                                       |
+| Yazar / Kaynak     | Durum | Bağlantı                                                       |
 |---------------------|--------|------------------------------------------------------------|
 | Lawlez OSWE Repo    | ✅     | https://github.com/Lawlez/myOSWE                          |
