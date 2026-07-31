@@ -7,6 +7,7 @@ Bu proje, MDKAIF302 tarafından oluşturulan SecArchive projesinden türetilmiş
 Siber güvenlik iş akışları, otomasyon ve prompt yazımı için yapay zeka veya GPT kullanımına odaklanan kaynaklar.
 
 | İsim / Yazar                          | Durum | Bağlantı                                                               |
+| Dark-Moon (Otonom AI Sızma Testi Platformu) by ASC-IT | ✅ | https://github.com/ASCIT31/Dark-Moon |
 |---------------------------------------|--------|--------------------------------------------------------------------|
 | Offensive AI Compilation by jiep       | ✅     | https://jiep.github.io/offensive-ai-compilation/          |
 | CyberSecAI Project  | ✅     | https://cybersecai.github.io/            |
